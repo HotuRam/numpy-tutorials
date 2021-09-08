@@ -11,6 +11,9 @@ For Window
 go to cmd and type  <br />
 
 
-- git clone 
+- git clone https://github.com/HotuRam/numpy-tutorials 
 
+<br />
+
+and use it....💕💕
 
