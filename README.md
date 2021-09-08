@@ -8,7 +8,9 @@ How anyone can use it
 
 For Window 
 
-go to cmd
-and type - git clone link copy from brower
+go to cmd and type  <br />
+
+
+- git clone 
 
 
